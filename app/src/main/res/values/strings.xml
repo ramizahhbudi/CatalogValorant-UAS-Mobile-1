@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">Catalog Valorant</string>
+
+    <string name="home_title">Catalog Valorant</string>
+    <string name="agents_button">Agents</string>
+    <string name="weapons_button">Weapons</string>
+    <string name="maps_button">Maps</string>
+
+        <string name="agents_screen_title">Agents List</string>
+        <string name="agent_jett_description">Duelist dari Korea Selatan</string>
+        <string name="agent_phoenix_description">Duelist dari Inggris</string>
+        <string name="agent_reyna_description">Duelist dari Meksiko</string>
+        <string name="agent_raze_description">Duelist dari Brasil</string>
+        <string name="agent_yoru_description">Duelist dari Jepang</string>
+        <string name="agent_sova_description">Initiator dari Rusia</string>
+        <string name="agent_breach_description">Initiator dari Swedia</string>
+        <string name="agent_kayo_description">Initiator dari Amerika Serikat</string>
+        <string name="agent_brimstone_description">Controller dari Amerika Serikat</string>
+        <string name="agent_omen_description">Controller dari lokasi yang tidak diketahui</string>
+        <string name="agent_viper_description">Controller dari Amerika Serikat</string>
+        <string name="agent_sage_description">Sentinel dari Tiongkok</string>
+        <string name="agent_cypher_description">Sentinel dari Maroko</string>
+        <string name="agent_killjoy_description">Sentinel dari Jerman</string>
+        <string name="agent_chamber_description">Sentinel dari Prancis</string>
+        <string name="agent_skye_description">Support dari Australia</string>
+        <string name="agent_astra_description">Controller dari Ghana</string>
+
+        <string name="weapons_screen_title">Weapons List</string>
+        <string name="weapon_vandal_description">Senjata serbu dengan akurasi tinggi</string>
+        <string name="weapon_phantom_description">Senjata serbu dengan suara lebih senyap</string>
+        <string name="weapon_guardian_description">Senapan dengan satu tembakan akurat dan damage tinggi</string>
+        <string name="weapon_bulldog_description">Senjata serbu yang dapat digunakan dalam mode otomatis atau semi-otomatis</string>
+        <string name="weapon_stinger_description">SMG dengan rate of fire tinggi, cocok untuk pertempuran jarak dekat</string>
+        <string name="weapon_bucky_description">Shotgun dengan dua mode tembakan: jarak dekat dan jarak menengah</string>
+        <string name="weapon_judge_description">Shotgun dengan kecepatan tembakan sangat cepat dan akurasi tinggi di jarak dekat</string>
+        <string name="weapon_op_description">Sniper rifle dengan damage besar, ideal untuk eliminasi musuh dari jarak jauh</string>
+        <string name="weapon_ares_description">Senapan mesin ringan dengan kecepatan tembakan tinggi dan harga terjangkau</string>
+        <string name="weapon_spectre_description">Senjata mesin ringan dengan kecepatan tembakan cepat dan harga terjangkau</string>
+        <string name="weapon_classic_description">Pistol standar dengan opsi tembakan otomatis dan kecepatan tembakan moderat</string>
+        <string name="weapon_shorty_description">Pistol shotgun dengan tembakan jarak dekat yang sangat kuat</string>
+        <string name="weapon_frenzy_description">Pistol otomatis dengan rate of fire sangat tinggi dan cocok untuk pertarungan jarak dekat</string>
+        <string name="weapon_knife_description">Senjata melee yang digunakan untuk serangan jarak dekat dengan damage yang besar</string>
+        <string name="weapon_marshall_description">Senapan sniper ringan yang lebih murah, ideal untuk jarak jauh</string>
+        <string name="weapon_sheriff_description">Pistol yang memiliki damage besar, ideal untuk jarak jauh</string>
+
+        <string name="maps_screen_title">Maps List</string>
+        <string name="map_haven_description">Map dengan tiga spike sites, memungkinkan pertempuran di berbagai area</string>
+        <string name="map_bind_description">Map dengan teleport unik, memungkinkan pemain berpindah lokasi dengan cepat</string>
+        <string name="map_split_description">Map dengan dua spike sites dan banyak area vertikal untuk pertempuran</string>
+        <string name="map_ascent_description">Map yang seimbang dengan kontrol pusat yang sangat penting, serta dua spike sites terbuka</string>
+        <string name="map_breeze_description">Map dengan ruang terbuka besar dan banyak area untuk long-range combat</string>
+        <string name="map_icebox_description">Map yang penuh dengan rintangan vertikal dan ruang sempit yang mendukung pertempuran jarak dekat</string>
+        <string name="map_fracture_description">Map yang memungkinkan kedua tim berperang dari sisi yang berbeda, dengan dua spike sites dan banyak rintangan</string>
+        <string name="map_lotus_description">Map dengan ruang terbuka besar dan banyak area untuk long-range combat</string>
+        <string name="map_pearl_description">Map dengan ruang terbuka besar dan banyak area untuk long-range combat</string>
+        <string name="map_abyss_description">Map dengan ruang terbuka besar dan banyak area untuk long-range combat</string>
+
+    <string name="agent_detail_title">Agent Detail</string>
+    <string name="weapon_detail_title">Weapon Detail</string>
+    <string name="map_detail_title">Map Detail</string>
+
+    <string name="button_back">Back</string>
+    <string name="button_confirm">Confirm</string>
+</resources>
